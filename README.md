@@ -57,7 +57,5 @@ This project is licensed under the MIT License — free to use, modify, and dist
 Add more websites and commands
 Add conversation memory
 Create a GUI-based version
-
-            break  # Exit the program
         else:
             print("Please type 'Jarvis' to activate.")
